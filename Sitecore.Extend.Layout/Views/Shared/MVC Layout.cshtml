@@ -1,0 +1,10 @@
+﻿@using Sitecore.Mvc
+@using Sitecore.Mvc.Analytics.Extensions
+
+@{
+    Layout = "MvcOuterLayout.cshtml";
+}
+<main role="main" class="container">
+    <h1>@Html.Sitecore().Field("product name")</h1>
+    <div>@Html.Sitecore().Placeholder("main")</div>
+</main>

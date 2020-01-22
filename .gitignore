@@ -1,0 +1,25 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Cms/Sitecore/ContentIntelligence/.vs/ContentIntelligence/v15/.suo
+/TagEngine/TagEngine/.vs/TagEngine/v15/.suo
+/Cms/Sitecore/ContentIntelligence/build
+/Cms/Sitecore/ContentIntelligence/docs
+/TagEngine/TagEngine/.vs/TagEngine/v15/Server/sqlite3
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+/TagEngine/TagEngine/.vs/TagEngine/v15/Server/sqlite3
+/TagEngine/TagEngine/TagEngine.Razor.Tests/obj
+/TagEngine/TagEngine/TagEngine.Razor.Tests/bin/Debug/netcoreapp2.2
+/TagEngine/TagEngine/TagEngine.Providers.TextRazor/obj/Debug/netcoreapp2.2
+/TagEngine/TagEngine/TagEngine.Providers.TextRazor/bin/Debug/netcoreapp2.2
+/TagEngine/TagEngine/TagEngine.Providers.TextRazor/obj
+/TagEngine/TagEngine/TagEngine/obj
+.vs/
+*.user
